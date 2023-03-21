@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.17)  17 MAR 2023 09:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.17)  21 MAR 2023 13:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -569,23 +569,26 @@ ne 45.
  [1
 
 {C:/Users/malte.lindkvist/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./
-NTI Gymnasiet_Symbol_print_svart.png>] (C:/Code\Pm energi\out\main.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
- [1] [2]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
-8.
+NTI Gymnasiet_Symbol_print_svart.png>]
+<Vindkraftverk,_principskiss.svg.png, id=12, 250.9375pt x 250.9375pt>
+File: Vindkraftverk,_principskiss.svg.png Graphic file (type png)
+<use Vindkraftverk,_principskiss.svg.png>
+Package pdftex.def Info: Vindkraftverk,_principskiss.svg.png  used on input lin
+e 77.
+(pdftex.def)             Requested size: 137.9979pt x 138.00455pt.
+ [1 <./Vindkraftverk,_principskiss.svg.png>]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
+3.
 
 (C:\Users\malte.lindkvist\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.f
 d
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 
-LaTeX Warning: Reference `grav' on page 3 undefined on input line 101.
+LaTeX Warning: Reference `grav' on page 2 undefined on input line 106.
 
-
-Overfull \hbox (2.46336pt too wide) in paragraph at lines 111--111
+[2]
+Overfull \hbox (2.46336pt too wide) in paragraph at lines 116--116
 \T1/cmr/m/sc/10 url\T1/cmr/m/n/10 : $\T1/cmtt/m/n/10 https : / / jens -[] andre
 asson . gitbook . io / webbserverprogrammering /
  []
@@ -602,10 +605,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11524 strings out of 476339
- 218727 string characters out of 5783399
+ 11534 strings out of 476339
+ 219106 string characters out of 5783399
  1856340 words of memory out of 5000000
- 31829 multiletter control sequences out of 15000+600000
+ 31839 multiletter control sequences out of 15000+600000
  522894 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,5n,68p,679b,1604s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -628,9 +631,9 @@ grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/malte.lindkvis
 t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
 ers/malte.lindkvist/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmr7.pfb>
-Output written on "C:/Code\Pm energi\out\main.pdf" (4 pages, 135796 bytes).
+Output written on "C:/Code\Pm energi\out\main.pdf" (4 pages, 146279 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
+ 362 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
