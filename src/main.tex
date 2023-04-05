@@ -11,7 +11,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 %Källor
-\addbibresource{mall.bib}
+\addbibresource{main.bib}
 \graphicspath{ {./images/} }
 
 \title{PMmall \\ \small Fysik 1}
@@ -57,61 +57,42 @@
     \newpage
     \section{Inledning}
     El är någonting vi alla använder och kommer använda under de största delar av våra liv, detta betyder att mycket el kommer gå åt, det innebär att vi behöver förnybar energi.
-    Det finns flera olika slags förnybar energi, några av dom är vattenkraft, vindkraft och solenergi. Det kallas för en förnybar energikälla eftersom att det ständigt fylls på, t.ex solenergin, solen kommer inte "ta slut" för att vi använder solpaneler medans olja tar slut ifall vi försummar den.
+    Det finns flera olika slags förnybar energi, några av dom är vattenkraft, vindkraft och solenergi. Det kallas för en förnybar energikälla eftersom att det ständigt fylls på, t.ex solenergin, solen kommer inte "ta slut" för att vi använder solpaneler medans olja tar slut ifall vi försummar den. Det är alltså energikällor som ständigt fylls på. \parencite{naturskyddsföreningen}
 
-    \section{Inledning}
-    Beskriv varför detta ämne är intressant eller viktigt. Vad är syftet med texten?
-    \subsection{frågeställningar}
-    rada upp dina frågor i punktform
+    \section{frågeställningar}
     \begin{enumerate}
         \item Hur fungerar vindkraftverk?
         \item Hur påverkar vindkraftverk miljön?
         \item Hur påverkar vindkraftverk samhället?
     \end{enumerate}
 
-    \section{Resultat}
-    Här kommer allt med massor av mer rubriker och underrubriker
-    \subsection{Vindkraft, så fungerar det}
-    Ett vindkraftverk genererar energi genom vinden, ett vindkraftverk har en rotor (bladen som snurrar) som driver en generator som sedan producerar el vilket överförs till elnätet.
+
+    \section{Vindkraft, så fungerar det}
+    Ett vindkraftverk genererar energi genom vinden,
+    ett vindkraftverk har en rotor (bladen som snurrar) som driver en generator som sedan producerar el vilket överförs till elnätet. \parencite{Wikipediavindkraftverk}
 
     \includegraphics[width=0.4\textwidth]{Vindkraftverk,_principskiss.svg}
 
 
-    \subsection{Vindkraft, miljöpåverkan}
-    Vindkraft i sig påverkar inte miljön på ett negativt sätt, detta kan dock inte sägas om vindkraftverken. Idag är det vanligt att ett vindkraftverk har en rotordiameter på 80-120m och en höjd på 90-100m.
-    Resurserna som behövs för bara ett av dessa
+    \section{Vindkraft, miljöpåverkan}
+    Vindkraft i sig påverkar inte miljön på ett negativt sätt, detta kan dock inte sägas om vindkraftverken.
+    Idag är det vanligt att ett vindkraftverk har en rotordiameter på 80-120m och en höjd på 90-100m.\parencite{vindkraftsnyheter}
+    Resurserna som gått åt till vindkraftverk är runt 5 miljoner ton stål/järn, 300 000 ton glasfibermaterial, 140 000 ton plaster,
+    50 000 ton aluminium och 28 000 ton koppar samt 28 000 ton elektronik till vindkraftverk, kablar och annan elinfrastruktur som behövs för vindkraftsparkerna. \parencite{energimyndigheten}
+    Detta betyder att mycket resurser går åt och mycket pengar går också åt, det innebär att vissa delar av naturen blivit konsumerade.
+    Vindkraftverken kan påverka Däggdjur och fåglar, för däggdjuren dock är för det mesta bara av uppföringen av vindkraften. Det är då människorna kan skrämma djuren.
+    Men fåglarna blir lite mer påverkade, inte nog med att 5-6 fåglar dör tack vare varje vindkraftverk varje år, de blir även störda under uppföringen av vindrkraftverken.\parencite{naturvårdsverket}
+
+    \section{Vindkraftverk, samhällspåverkan}
+    Enligt en studie av KTH drar vindkraftverken ner prisen på fastigheterna i en 2km radie runt vindkraftverken.
+    Resultatet visade att fastigheterna inom 2km av ett vindkraftverk var i genomsnitt 13.2 procent lägre än de som var längre ifrån vindkraftverken under åren 2012-2018 och
+    10.9 procent lägre under 2005-2011 på grund av närhet till vindkraft.\parencite{motvindsverige}
 
     \section{Slutsatser}
-    Här kan du dra slutsatser eller sammanfatta ditt resultat
+Det finns fördelar och nackdelar med vindkraft, men jag har kommit fram till att fördelarna utväger nackdelarna eftersom att ett vindkraftverk kan årliga producera tillräckligt mycket el för 4000 hushåll.\parencite{vattenfall}
 
-% Mer saker som du kan ha nytta av.
 
-    \section{Referenser}
-    Referenser i text kan skrivas på två sätt: Enligt \textcite{Jens} kan man använde två typer av referenser, inbäddade i texten eller efter ett fakta \parencite{Fraenkel}. Ett till test för att se hur det ser ut \parencite[sid 55]{fermi}.
 
-    \section{Annat som kan vara bra att veta}
-    Om du vill ha kodstil och få med alla tecken kan du använda verbatim. då kan du skriva \verb|abcd!"#| utan problem...
-
-    Citat skrivs mellan de konstiga symbolerna \verb|``| och \verb|''| för att de ska se bra ut ``se bra ut!''.
-    \subsection{En underrubrik}
-    \subsubsection{En underunderrubrik}
-    \subsection{Ekvationer}
-    Det är lätt att skriva matematik i \LaTeX
-
-    \begin{equation}
-        F = G \frac{M m}{r^2}
-        \label{grav}
-    \end{equation}
-
-    Ekvation (\ref{grav}) känner ni igen...
-
-    \subsection{figurer}
-    Bilder placeras enklast på detta sätt. placeringen bestämmer \LaTeX och vi kan bara föreslå (h)är, (t)opp eller (b)otten. Ett utropstecken före tvingar lite mer men inte absolut. I bild  visas en varg
-    %\begin{figure}[!h]
-    %    \includegraphics[width=0.8\textwidth]
-    %    \caption{Acceleration-tid diagram. Källa: Impuls Fysik 1}
-    %    \label{varg}
-    %\end{figure}
     \printbibliography
 
 \end{document}

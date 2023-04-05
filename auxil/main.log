@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.17)  21 MAR 2023 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.17)  5 APR 2023 13:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -574,23 +574,37 @@ NTI Gymnasiet_Symbol_print_svart.png>]
 File: Vindkraftverk,_principskiss.svg.png Graphic file (type png)
 <use Vindkraftverk,_principskiss.svg.png>
 Package pdftex.def Info: Vindkraftverk,_principskiss.svg.png  used on input lin
-e 77.
+e 74.
 (pdftex.def)             Requested size: 137.9979pt x 138.00455pt.
  [1 <./Vindkraftverk,_principskiss.svg.png>]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
-3.
+6.
 
 (C:\Users\malte.lindkvist\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.f
 d
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
+Overfull \hbox (16.9154pt too wide) in paragraph at lines 97--97
+\T1/cmtt/m/n/10 / / www . energimyndigheten . se / 48ff35 / globalassets / forn
+ybart / strategi -[]
+ []
 
-LaTeX Warning: Reference `grav' on page 2 undefined on input line 106.
+
+Overfull \hbox (21.66412pt too wide) in paragraph at lines 97--97
+\T1/cmtt/m/n/10 naturvardsverket . se / contentassets / 3b2d5b1a1eca466e9841275
+cf9e6f0c2 /
+ []
+
+
+Overfull \hbox (2.46336pt too wide) in paragraph at lines 97--97
+\T1/cmr/m/sc/10 url\T1/cmr/m/n/10 : $\T1/cmtt/m/n/10 https : / / group . vatten
+fall . com / se / var -[] verksamhet / vindprojekt /
+ []
 
 [2]
-Overfull \hbox (2.46336pt too wide) in paragraph at lines 116--116
-\T1/cmr/m/sc/10 url\T1/cmr/m/n/10 : $\T1/cmtt/m/n/10 https : / / jens -[] andre
-asson . gitbook . io / webbserverprogrammering /
+Overfull \hbox (4.08911pt too wide) in paragraph at lines 97--97
+[][]\T1/cmr/m/n/10 Wikipedia (2023). I: (). \T1/cmr/m/sc/10 url\T1/cmr/m/n/10 :
+ $\T1/cmtt/m/n/10 https : / / sv . wikipedia . org / wiki / Vindkraftverk$
  []
 
 [3] (C:/Code\Pm energi\out\main.aux)
@@ -598,42 +612,35 @@ asson . gitbook . io / webbserverprogrammering /
 LaTeX Warning: There were undefined references.
 
 
-Package biblatex Warning: Please rerun LaTeX.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11534 strings out of 476339
- 219106 string characters out of 5783399
- 1856340 words of memory out of 5000000
- 31839 multiletter control sequences out of 15000+600000
- 522894 words of font info for 48 fonts, out of 8000000 for 9000
+ 11525 strings out of 476339
+ 219359 string characters out of 5783399
+ 1860340 words of memory out of 5000000
+ 31835 multiletter control sequences out of 15000+600000
+ 519124 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,5n,68p,679b,1604s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,5n,68p,679b,1610s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\malte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
-pi600\eccc1000.pk> <C:\Users\malte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\malte.lindkvist\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\malte.lindkvist\Ap
-pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\ma
-lte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.
+pi600\ectt1000.pk> <C:\Users\malte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\malte.lindkvist\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\malte.lindkvist\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\ma
+lte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.
 pk> <C:\Users\malte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecbx1200.pk> <C:\Users\malte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\malte.lindkvist\AppData\Local\MiK
-TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\malte.lindkvist\A
-ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\m
-alte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728
-.pk> <C:\Users\malte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecrm1728.pk> <C:\Users\malte.lindkvist\AppData\Local\MiKTeX\fonts/pk/lj
-four/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/malte.lindkvist/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/malte.lindkvis
-t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
-ers/malte.lindkvist/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmr7.pfb>
-Output written on "C:/Code\Pm energi\out\main.pdf" (4 pages, 146279 bytes).
+dpi600\ecbx1728.pk> <C:\Users\malte.lindkvist\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\malte.lindkvist\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
+Output written on "C:/Code\Pm energi\out\main.pdf" (4 pages, 93333 bytes).
 PDF statistics:
- 362 PDF objects out of 1000 (max. 8388607)
+ 255 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

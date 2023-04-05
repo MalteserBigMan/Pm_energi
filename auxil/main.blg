@@ -1,14 +1,16 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [1] Config.pm:309> INFO - Logfile is 'main.blg'
-[296] biber-MSWIN64:340> INFO - === 
-[386] Biber.pm:418> INFO - Reading 'main.bcf'
-[676] Biber.pm:978> INFO - Found 3 citekeys in bib section 0
-[733] Biber.pm:4401> INFO - Processing section 0
-[771] Biber.pm:4592> INFO - Looking for bibtex file 'mall.bib' for section 0
-[926] bibtex.pm:1713> INFO - LaTeX decoding ...
-[945] bibtex.pm:1518> INFO - Found BibTeX data source 'C:\Code\Pm energi\src\mall.bib'
-[1135] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1135] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1135] Biber.pm:4221> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'sv-SE'
-[1160] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1168] bbl.pm:757> INFO - Output to main.bbl
+[521] biber-MSWIN64:340> INFO - === 
+[682] Biber.pm:418> INFO - Reading 'main.bcf'
+[893] Biber.pm:978> INFO - Found 7 citekeys in bib section 0
+[962] Biber.pm:4401> INFO - Processing section 0
+[1018] Biber.pm:4592> INFO - Looking for bibtex file 'main.bib' for section 0
+[1168] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1199] bibtex.pm:1518> INFO - Found BibTeX data source 'C:\Code\Pm energi\src\main.bib'
+[1393] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1393] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1393] Biber.pm:4221> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'sv-SE'
+[1492] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1498] bbl.pm:757> INFO - Output to main.bbl
+[1498] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\MALTE~1.LIN\AppData\Local\Temp\biber_tmp_Pukb\3b92c3a43883b50258e417775889aed6_6876.utf8, line 33, warning: 1 characters of junk seen at toplevel
+[1498] Biber.pm:132> INFO - WARNINGS: 1

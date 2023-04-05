@@ -19,114 +19,215 @@
 
 \refsection{0}
   \datalist[entry]{ynt/global//global/global}
-    \entry{fermi}{article}{}
+    \entry{energimyndigheten}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1d633020d2b7ae0ed2ca559a7b3a165a}{%
-           family={Fermi},
-           familyi={F\bibinitperiod},
-           given={Enrico},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d3562cac6af1875ee6b9f80b44387db}{%
+           family={Energimyndigheten},
+           familyi={E\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {APS}%
-      }
-      \strng{namehash}{1d633020d2b7ae0ed2ca559a7b3a165a}
-      \strng{fullhash}{1d633020d2b7ae0ed2ca559a7b3a165a}
-      \strng{bibnamehash}{1d633020d2b7ae0ed2ca559a7b3a165a}
-      \strng{authorbibnamehash}{1d633020d2b7ae0ed2ca559a7b3a165a}
-      \strng{authornamehash}{1d633020d2b7ae0ed2ca559a7b3a165a}
-      \strng{authorfullhash}{1d633020d2b7ae0ed2ca559a7b3a165a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review}
-      \field{number}{6}
-      \field{title}{The ionization loss of energy in gases and in condensed materials}
-      \field{volume}{57}
-      \field{year}{1940}
-      \field{pages}{485}
-      \range{pages}{1}
-    \endentry
-    \entry{Fraenkel}{book}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=362a58f6438badbb395ccadcd6a1d780}{%
-           family={Fraenkel},
-           familyi={F\bibinitperiod},
-           given={Lars},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f69e75c9be140c66a13711832f124896}{%
-           family={Gottfridsson},
-           familyi={G\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=956682e571b1230b2b445d3692afda2e}{%
-           family={Jonasson},
-           familyi={J\bibinitperiod},
-           given={Ulf},
-           giveni={U\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Malmö}%
-      }
-      \list{publisher}{1}{%
-        {Gleerups}%
-      }
-      \strng{namehash}{0850237f888bce1e07a04f73d30230d1}
-      \strng{fullhash}{0850237f888bce1e07a04f73d30230d1}
-      \strng{bibnamehash}{0850237f888bce1e07a04f73d30230d1}
-      \strng{authorbibnamehash}{0850237f888bce1e07a04f73d30230d1}
-      \strng{authornamehash}{0850237f888bce1e07a04f73d30230d1}
-      \strng{authorfullhash}{0850237f888bce1e07a04f73d30230d1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{1. uppl., 2. tr.}
-      \field{isbn}{9140674150}
-      \field{title}{Impuls Fysik. 1}
-      \field{year}{2011}
-      \keyw{Fysik}
-    \endentry
-    \entry{Jens}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=606aed1d84dfe75ae0113679852ed79a}{%
-           family={Andreasson},
-           familyi={A\bibinitperiod},
-           given={Jens},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{606aed1d84dfe75ae0113679852ed79a}
-      \strng{fullhash}{606aed1d84dfe75ae0113679852ed79a}
-      \strng{bibnamehash}{606aed1d84dfe75ae0113679852ed79a}
-      \strng{authorbibnamehash}{606aed1d84dfe75ae0113679852ed79a}
-      \strng{authornamehash}{606aed1d84dfe75ae0113679852ed79a}
-      \strng{authorfullhash}{606aed1d84dfe75ae0113679852ed79a}
+      \strng{namehash}{8d3562cac6af1875ee6b9f80b44387db}
+      \strng{fullhash}{8d3562cac6af1875ee6b9f80b44387db}
+      \strng{bibnamehash}{8d3562cac6af1875ee6b9f80b44387db}
+      \strng{authorbibnamehash}{8d3562cac6af1875ee6b9f80b44387db}
+      \strng{authornamehash}{8d3562cac6af1875ee6b9f80b44387db}
+      \strng{authorfullhash}{8d3562cac6af1875ee6b9f80b44387db}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{url}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Webbserverprogrammering med Node och Express}
-      \field{urlday}{3}
-      \field{urlmonth}{9}
-      \field{urlyear}{2021}
+      \field{title}{Vindkraftens resursanvändning}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://jens-andreasson.gitbook.io/webbserverprogrammering/webbserver/node-introduktion
+      \verb https://www.energimyndigheten.se/48ff35/globalassets/fornybart/strategi-for-hallbar-vindkraftsutbyggnad/vindkraftens-resursanvandning_slutversion-20210127.pdf
       \endverb
       \verb{url}
-      \verb https://jens-andreasson.gitbook.io/webbserverprogrammering/webbserver/node-introduktion
+      \verb https://www.energimyndigheten.se/48ff35/globalassets/fornybart/strategi-for-hallbar-vindkraftsutbyggnad/vindkraftens-resursanvandning_slutversion-20210127.pdf
+      \endverb
+    \endentry
+    \entry{motvindsverige}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c299a11d03fe470f7eb993a37537f35}{%
+           family={motvindsverige},
+           familyi={m\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c299a11d03fe470f7eb993a37537f35}
+      \strng{fullhash}{0c299a11d03fe470f7eb993a37537f35}
+      \strng{bibnamehash}{0c299a11d03fe470f7eb993a37537f35}
+      \strng{authorbibnamehash}{0c299a11d03fe470f7eb993a37537f35}
+      \strng{authornamehash}{0c299a11d03fe470f7eb993a37537f35}
+      \strng{authorfullhash}{0c299a11d03fe470f7eb993a37537f35}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Studie från KTH visar att vindkraftsverken sänker fastighetsvärden}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://motvindsverige.org/studie-fran-kth-visar-att-vindkraft-sanker-fastighetsvarden/
+      \endverb
+      \verb{url}
+      \verb https://motvindsverige.org/studie-fran-kth-visar-att-vindkraft-sanker-fastighetsvarden/
+      \endverb
+    \endentry
+    \entry{naturskyddsföreningen}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=781672a89e971a1a55f03effe483dd79}{%
+           family={Naturskyddföreningen},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{781672a89e971a1a55f03effe483dd79}
+      \strng{fullhash}{781672a89e971a1a55f03effe483dd79}
+      \strng{bibnamehash}{781672a89e971a1a55f03effe483dd79}
+      \strng{authorbibnamehash}{781672a89e971a1a55f03effe483dd79}
+      \strng{authornamehash}{781672a89e971a1a55f03effe483dd79}
+      \strng{authorfullhash}{781672a89e971a1a55f03effe483dd79}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vad är energikällor}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.naturskyddsforeningen.se/faktablad/vad-ar-energikallor/
+      \endverb
+      \verb{url}
+      \verb https://www.naturskyddsforeningen.se/faktablad/vad-ar-energikallor/
+      \endverb
+    \endentry
+    \entry{naturvårdsverket}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f110432b5a810a56077995c58d61af76}{%
+           family={naturvårdsverket},
+           familyi={n\bibinitperiod}}}%
+      }
+      \strng{namehash}{f110432b5a810a56077995c58d61af76}
+      \strng{fullhash}{f110432b5a810a56077995c58d61af76}
+      \strng{bibnamehash}{f110432b5a810a56077995c58d61af76}
+      \strng{authorbibnamehash}{f110432b5a810a56077995c58d61af76}
+      \strng{authornamehash}{f110432b5a810a56077995c58d61af76}
+      \strng{authorfullhash}{f110432b5a810a56077995c58d61af76}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fåglar och vindkraft}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.naturvardsverket.se/contentassets/3b2d5b1a1eca466e9841275cf9e6f0c2/faktablad-vindval-faglar-arter.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.naturvardsverket.se/contentassets/3b2d5b1a1eca466e9841275cf9e6f0c2/faktablad-vindval-faglar-arter.pdf
+      \endverb
+    \endentry
+    \entry{vindkraftsnyheter}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8a545dc64913d934ad715d409f25141}{%
+           family={Samuelsson},
+           familyi={S\bibinitperiod},
+           given={Ulrika\bibnamedelima Sehlberg},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d8a545dc64913d934ad715d409f25141}
+      \strng{fullhash}{d8a545dc64913d934ad715d409f25141}
+      \strng{bibnamehash}{d8a545dc64913d934ad715d409f25141}
+      \strng{authorbibnamehash}{d8a545dc64913d934ad715d409f25141}
+      \strng{authornamehash}{d8a545dc64913d934ad715d409f25141}
+      \strng{authorfullhash}{d8a545dc64913d934ad715d409f25141}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vindkraftverken blir större - men hur stora kan det bli?}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.vindkraftsnyheter.se/20190804/1512/vindkraftverken-blir-storre-men-hur-stora-kan-de-bli
+      \endverb
+      \verb{url}
+      \verb https://www.vindkraftsnyheter.se/20190804/1512/vindkraftverken-blir-storre-men-hur-stora-kan-de-bli
+      \endverb
+    \endentry
+    \entry{vattenfall}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb98e0ff56ec79437dcbfc7e9ad9fe57}{%
+           family={vattenfall},
+           familyi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb98e0ff56ec79437dcbfc7e9ad9fe57}
+      \strng{fullhash}{fb98e0ff56ec79437dcbfc7e9ad9fe57}
+      \strng{bibnamehash}{fb98e0ff56ec79437dcbfc7e9ad9fe57}
+      \strng{authorbibnamehash}{fb98e0ff56ec79437dcbfc7e9ad9fe57}
+      \strng{authornamehash}{fb98e0ff56ec79437dcbfc7e9ad9fe57}
+      \strng{authorfullhash}{fb98e0ff56ec79437dcbfc7e9ad9fe57}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Frågor och svar om landsbaserad vindkraft i Sverige}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://group.vattenfall.com/se/var-verksamhet/vindprojekt/fragor-och-svar-om-vindkraft
+      \endverb
+      \verb{url}
+      \verb https://group.vattenfall.com/se/var-verksamhet/vindprojekt/fragor-och-svar-om-vindkraft
+      \endverb
+    \endentry
+    \entry{Wikipediavindkraftverk}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sv.wikipedia.org/wiki/Vindkraftverk
+      \endverb
+      \verb{url}
+      \verb https://sv.wikipedia.org/wiki/Vindkraftverk
       \endverb
     \endentry
   \enddatalist
